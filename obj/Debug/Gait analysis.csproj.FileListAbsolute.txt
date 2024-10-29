@@ -1,0 +1,37 @@
+C:\Users\cash\Downloads\Job Application Documents\Gait analysis\bin\Debug\Gait analysis.exe.config
+C:\Users\cash\Downloads\Job Application Documents\Gait analysis\bin\Debug\Gait analysis.exe
+C:\Users\cash\Downloads\Job Application Documents\Gait analysis\bin\Debug\Gait analysis.pdb
+C:\Users\cash\Downloads\Job Application Documents\Gait analysis\bin\Debug\Interop.WMPLib.dll
+C:\Users\cash\Downloads\Job Application Documents\Gait analysis\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\cash\Downloads\Job Application Documents\Gait analysis\obj\Debug\Gait analysis.csproj.AssemblyReference.cache
+C:\Users\cash\Downloads\Job Application Documents\Gait analysis\obj\Debug\Interop.WMPLib.dll
+C:\Users\cash\Downloads\Job Application Documents\Gait analysis\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\cash\Downloads\Job Application Documents\Gait analysis\obj\Debug\Gait analysis.csproj.ResolveComReference.cache
+C:\Users\cash\Downloads\Job Application Documents\Gait analysis\obj\Debug\Gait_analysis.Properties.Resources.resources
+C:\Users\cash\Downloads\Job Application Documents\Gait analysis\obj\Debug\Gait analysis.csproj.GenerateResource.cache
+C:\Users\cash\Downloads\Job Application Documents\Gait analysis\obj\Debug\Gait analysis.csproj.CoreCompileInputs.cache
+C:\Users\cash\Downloads\Job Application Documents\Gait analysis\obj\Debug\Gait analysis.exe
+C:\Users\cash\Downloads\Job Application Documents\Gait analysis\obj\Debug\Gait analysis.pdb
+C:\Users\cash\Downloads\Job Application Documents\Gait analysis\obj\Debug\Gait_analysis.Gait_Analysis_Application.resources
+C:\Users\cash\Downloads\Job Application Documents\Gait analysis\obj\Debug\Gait_analysis.Help.resources
+C:\Users\cash\Downloads\Job Application Documents\Gait analysis_1\Gait analysis\bin\Debug\Gait analysis.exe.config
+C:\Users\cash\Downloads\Job Application Documents\Gait analysis_1\Gait analysis\bin\Debug\Gait analysis.exe
+C:\Users\cash\Downloads\Job Application Documents\Gait analysis_1\Gait analysis\bin\Debug\Gait analysis.pdb
+C:\Users\cash\Downloads\Job Application Documents\Gait analysis_1\Gait analysis\bin\Debug\Interop.WMPLib.dll
+C:\Users\cash\Downloads\Job Application Documents\Gait analysis_1\Gait analysis\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\cash\Downloads\Job Application Documents\Gait analysis_1\Gait analysis\obj\Debug\Gait analysis.csproj.AssemblyReference.cache
+C:\Users\cash\Downloads\Job Application Documents\Gait analysis_1\Gait analysis\obj\Debug\Interop.WMPLib.dll
+C:\Users\cash\Downloads\Job Application Documents\Gait analysis_1\Gait analysis\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\cash\Downloads\Job Application Documents\Gait analysis_1\Gait analysis\obj\Debug\Gait analysis.csproj.ResolveComReference.cache
+C:\Users\cash\Downloads\Job Application Documents\Gait analysis_1\Gait analysis\obj\Debug\Gait_analysis.Gait_Analysis_Application.resources
+C:\Users\cash\Downloads\Job Application Documents\Gait analysis_1\Gait analysis\obj\Debug\Gait_analysis.Help.resources
+C:\Users\cash\Downloads\Job Application Documents\Gait analysis_1\Gait analysis\obj\Debug\Gait_analysis.Properties.Resources.resources
+C:\Users\cash\Downloads\Job Application Documents\Gait analysis_1\Gait analysis\obj\Debug\Gait analysis.csproj.GenerateResource.cache
+C:\Users\cash\Downloads\Job Application Documents\Gait analysis_1\Gait analysis\obj\Debug\Gait analysis.csproj.CoreCompileInputs.cache
+C:\Users\cash\Downloads\Job Application Documents\Gait analysis_1\Gait analysis\obj\Debug\Gait analysis.exe
+C:\Users\cash\Downloads\Job Application Documents\Gait analysis_1\Gait analysis\obj\Debug\Gait analysis.pdb
+C:\Users\cash\Downloads\Job Application Documents\Gait analysis_1\Gait analysis\bin\Debug\Gait analysis.exe.manifest
+C:\Users\cash\Downloads\Job Application Documents\Gait analysis_1\Gait analysis\bin\Debug\Gait analysis.application
+C:\Users\cash\Downloads\Job Application Documents\Gait analysis_1\Gait analysis\obj\Debug\Gait analysis.TrustInfo.xml
+C:\Users\cash\Downloads\Job Application Documents\Gait analysis_1\Gait analysis\obj\Debug\Gait analysis.exe.manifest
+C:\Users\cash\Downloads\Job Application Documents\Gait analysis_1\Gait analysis\obj\Debug\Gait analysis.application
